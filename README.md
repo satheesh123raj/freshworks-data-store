@@ -1,4 +1,4 @@
-## Install Node Module First
+## Install Node Modules First
 
 npm i
 
